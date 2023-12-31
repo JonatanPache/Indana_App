@@ -1,0 +1,20 @@
+funcionalidades
+1ButtonNavigator.- una lista de los productos que existe en el centro comercial, es obivio que
+no debe repetirse. Luego selecciona un producto y muestra seleccionado los poligonos de las
+tiendas que tienen ese producto, bueno se cambiar a un
+color mas llamativo (colocar un onTap a cada poligono para mostrar informacion del negocio)
+
+-----60% terminar miercoles
+2.Buscar negocio por nombre, debe mostrar una lista, y luego hacer click en cualquier y mostrar de otro
+color el poligono seleccionado
+----- 0% terminar miercoles
+3. agregar un marker donde este el usuario
+okkkkk ----- 100%
+4. agregar otro marker nuevo para el usuario si se ha movido de su anterio
+position,
+ahora 'source' va ser el id current
+'source_1'
+''
+-------- 90% falta validar algunos detalles
+
+5. show cnetro comercial, okkkkkk--
